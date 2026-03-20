@@ -2,7 +2,7 @@
 import csv
 import re
 
-file_path = '/workspaces/turin_lecture3/RamaphosaCommitments2026.txt'
+file_path = 'RamaphosaCommitments2026.txt'
 with open(file_path, 'r') as f:
     text = f.read()
 
